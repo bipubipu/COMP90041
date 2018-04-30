@@ -37,13 +37,13 @@ public class NimPlayer {
 
 	}
 
-	public NimPlayer(String userName, String givenName, String familyName) {
+	public NimPlayer(String userName,String familyName, String givenName) {
 		this.userName = userName;
 		this.givenName = givenName;
 		this.familyName = familyName;
 		numOfPlayedGame = 0;
 		numOfWonGame = 0;
-		ratio = 0;
+		ratio = 0.0;
 	}
 
 	public String getUserName() {

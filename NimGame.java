@@ -51,11 +51,11 @@ public class NimGame {
 		
 		// The return value 1 or 2 represents player1 or player 2 wins.
 		if (isPlayer1 % 2 == 0) {
-			System.out.println(player2.getGivenName() + " wins!");
+			System.out.println(player2.getGivenName() + " " + player2.getFamilyName() + " wins!");
 			return 2;
 		}
 		else {
-			System.out.println(player1.getGivenName() + " wins!");
+			System.out.println(player1.getGivenName() + " " + player1.getFamilyName() + " wins!");
 			return 1;
 		}
 	}
