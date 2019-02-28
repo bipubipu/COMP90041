@@ -1,7 +1,6 @@
 
 /* NimSys, NimPlayer and NimGame files enable a two-player game. 
  * This class file manages the game playing process, including processing the commands. 
- * Author: Yunqiu Weng, Student Id: 8228509, 29/04/2018
  */
 import java.util.Scanner;
 import java.util.Arrays;
