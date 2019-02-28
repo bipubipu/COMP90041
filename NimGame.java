@@ -5,7 +5,6 @@
  * On each turn, a player must remove at least one stone, at most the upper bound on the number of stones or the number of stones. 
  * The game ends when there are no more stones remaining. The player who removes the last stone, loses. 
  * Both the initial number of stones, and the upper bound removal number, can be varied and must be chosen before a game commences.
- * Yunqiu Weng, 8228509, 29/04/2018
  */
 import java.util.Scanner;
 
