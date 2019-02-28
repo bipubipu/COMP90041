@@ -2,7 +2,6 @@
 /* This program is to define the player and receives the number of stones to remove from players. 
  * A player of Nim game has user name, given name and family. 
  * Besides, the number of wins and games played are recorded by the system.  
- * Yunqiu Weng, 8228509, 29/04/2018
  */
 import java.util.Scanner;
 
